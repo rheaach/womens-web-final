@@ -96,6 +96,7 @@ img:hover{
 figure figcaption{
   text-align: center;
   font-size: smaller;
+  font-weight: 500;
   font-style: italic;
   color: #292929;
 
